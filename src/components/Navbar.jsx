@@ -66,8 +66,8 @@ const Navbar = () => {
         <div className="md:hidden mt-2 bg-gray-900 dark:bg-gray-800 px-4 pb-4">
           <ul className="space-y-2 text-sm font-medium tracking-wider">
             <li><a href="#home" className="block hover:text-blue-300">Home</a></li>
-            <li><a href="#about" className="block hover:text-blue-300">About</a></li>
-            <li><a href="#contact" className="block hover:text-blue-300">Contact</a></li>
+            <li><a href="#counter" className="block hover:text-blue-300">Counter</a></li>
+            <li><a href="#cards" className="block hover:text-blue-300">Cards</a></li>
           </ul>
         </div>
       )}
